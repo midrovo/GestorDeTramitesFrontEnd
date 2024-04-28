@@ -1,0 +1,7 @@
+.inactive {
+    @apply flex items-center font-semibold mx-4 hover:text-blue-600;
+}
+
+.active {
+    @apply flex items-center font-semibold mx-4 text-blue-700;
+}

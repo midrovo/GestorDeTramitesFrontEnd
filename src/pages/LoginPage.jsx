@@ -3,7 +3,6 @@ import imagen from "../assets/mtop.jpg"
 import { LoginComponent } from "../components"
 export const LoginPage = () => {
     
-
     return (
         <div className="flex justify-center items-center min-h-screen">
             <div className="flex flex-col justify-between items-center flex-1 max-w-sm bg-white shadow-2xl rounded-xl">

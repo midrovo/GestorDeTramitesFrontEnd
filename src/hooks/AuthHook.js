@@ -36,7 +36,7 @@ const AuthHook = (initialState) => {
             )
             
             navigate("/home", {
-                state: response.data
+                state: response.data,
             })
 
         } catch (error) {
